@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff00e5,100:0d1117&height=220&section=header&text=PRANAV%20DESHMUKH&fontSize=50&fontColor=ff00e5&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6b00,100:0d1117&height=220&section=header&text=PRANAV%20DESHMUKH&fontSize=50&fontColor=ff6b00&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems...;Architecting+microservices+%40+PayFlow;Engineering+RAG+pipelines+%40+Creatora;Turning+coffee+%E2%98%95+into+production+code;9.52+CGPA+%7C+650%2B+LeetCode+%7C+Always+shipping" alt="Typing SVG" />
@@ -8,11 +8,11 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prn9v&color=ff00e5&style=flat-square&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff00e5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/pranav-deshmukh-rcoem)
-[![LeetCode](https://img.shields.io/badge/LeetCode-650%2B_Solved-ff00e5?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-ff00e5?style=flat-square&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codolio.com/profile/dir_pranav)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-ff00e5?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pranavdeshmukh5454@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=prn9v&color=ff6b00&style=flat-square&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff6b00?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/pranav-deshmukh-rcoem)
+[![LeetCode](https://img.shields.io/badge/LeetCode-650%2B_Solved-ff6b00?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/)
+[![Codolio](https://img.shields.io/badge/Codolio-Profile-ff6b00?style=flat-square&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codolio.com/profile/dir_pranav)
+[![Gmail](https://img.shields.io/badge/Email-Contact_Me-ff6b00?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pranavdeshmukh5454@gmail.com)
 
 </div>
 
@@ -45,36 +45,36 @@ fun_fact: "650+ LeetCode problems solved and counting"
 
 **Languages**
 <br/>
-![Java](https://img.shields.io/badge/-Java-ff00e5?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
-![Python](https://img.shields.io/badge/-Python-ff00e5?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/-TypeScript-ff00e5?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
-![JavaScript](https://img.shields.io/badge/-JavaScript-ff00e5?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117)
-![SQL](https://img.shields.io/badge/-SQL-ff00e5?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![Java](https://img.shields.io/badge/-Java-ff6b00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
+![Python](https://img.shields.io/badge/-Python-ff6b00?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ff6b00?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/-JavaScript-ff6b00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/-SQL-ff6b00?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
 
 **Frameworks & Runtime**
 <br/>
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-ff00e5?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117)
-![Next.js](https://img.shields.io/badge/-Next.js-ff00e5?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117)
-![NestJS](https://img.shields.io/badge/-NestJS-ff00e5?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0d1117)
-![React](https://img.shields.io/badge/-React-ff00e5?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117)
-![FastAPI](https://img.shields.io/badge/-FastAPI-ff00e5?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
-![Node.js](https://img.shields.io/badge/-Node.js-ff00e5?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-ff00e5?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-ff6b00?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/-Next.js-ff6b00?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117)
+![NestJS](https://img.shields.io/badge/-NestJS-ff6b00?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=0d1117)
+![React](https://img.shields.io/badge/-React-ff6b00?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117)
+![FastAPI](https://img.shields.io/badge/-FastAPI-ff6b00?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/-Node.js-ff6b00?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-ff6b00?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)
 
 **Data, Messaging & Infra**
 <br/>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff00e5?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/-MySQL-ff00e5?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
-![MongoDB](https://img.shields.io/badge/-MongoDB-ff00e5?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
-![Redis](https://img.shields.io/badge/-Redis-ff00e5?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d1117)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ff00e5?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/-Docker-ff00e5?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
-![Prisma](https://img.shields.io/badge/-Prisma-ff00e5?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff6b00?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/-MySQL-ff6b00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/-MongoDB-ff6b00?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117)
+![Redis](https://img.shields.io/badge/-Redis-ff6b00?style=for-the-badge&logo=redis&logoColor=white&labelColor=0d1117)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-ff6b00?style=for-the-badge&logo=rabbitmq&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/-Docker-ff6b00?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
+![Prisma](https://img.shields.io/badge/-Prisma-ff6b00?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0d1117)
 
 **AI / GenAI**
 <br/>
-![Gemini API](https://img.shields.io/badge/-Gemini_API-ff00e5?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d1117)
-![RAG](https://img.shields.io/badge/-RAG_Systems-ff00e5?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
+![Gemini API](https://img.shields.io/badge/-Gemini_API-ff6b00?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d1117)
+![RAG](https://img.shields.io/badge/-RAG_Systems-ff6b00?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -119,7 +119,7 @@ Real-time collaborative streaming platform built on the **Spotify API**, support
 ### 🧠 More on GitHub
 Explore the full breakdown — including **PayFlow-Frontend** and **Creatora-FastApi-Post-Generation** — pinned on my profile.
 
-[![View all repos](https://img.shields.io/badge/View_All_Repositories-ff00e5?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/prn9v?tab=repositories)
+[![View all repos](https://img.shields.io/badge/View_All_Repositories-ff6b00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/prn9v?tab=repositories)
 
 </td>
 </tr>
@@ -131,10 +131,10 @@ Explore the full breakdown — including **PayFlow-Frontend** and **Creatora-Fas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prn9v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00e5&icon_color=ff00e5&text_color=c9d1d9&ring_color=ff00e5" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prn9v&theme=tokyonight&hide_border=true&background=0d1117&ring=ff00e5&fire=ff00e5&currStreakLabel=ff00e5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prn9v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b00&icon_color=ff6b00&text_color=c9d1d9&ring_color=ff6b00" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prn9v&theme=tokyonight&hide_border=true&background=0d1117&ring=ff6b00&fire=ff6b00&currStreakLabel=ff6b00" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prn9v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff00e5&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prn9v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9" width="48%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=prn9v&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8&title=QuickDraw,PullShark,YOLO" width="48%"/>
 
 </div>
@@ -145,7 +145,7 @@ Explore the full breakdown — including **PayFlow-Frontend** and **Creatora-Fas
 
 ### 📈 Contribution Grid
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prn9v&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff00e5&line=ff00e5&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prn9v&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff" width="100%"/>
 
 </div>
 
@@ -155,9 +155,9 @@ Explore the full breakdown — including **PayFlow-Frontend** and **Creatora-Fas
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-650%2B_Problems_Solved-ff00e5?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)
-![CodeChef](https://img.shields.io/badge/CodeChef-Active-ff00e5?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117)
-![HackerRank](https://img.shields.io/badge/HackerRank-Active-ff00e5?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117)
+![LeetCode](https://img.shields.io/badge/LeetCode-650%2B_Problems_Solved-ff6b00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)
+![CodeChef](https://img.shields.io/badge/CodeChef-Active-ff6b00?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117)
+![HackerRank](https://img.shields.io/badge/HackerRank-Active-ff6b00?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117)
 
 </div>
 
@@ -174,12 +174,12 @@ Explore the full breakdown — including **PayFlow-Frontend** and **Creatora-Fas
 
 ## 🔗 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff00e5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/pranav-deshmukh-rcoem)
-[![Gmail](https://img.shields.io/badge/Gmail-ff00e5?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pranavdeshmukh5454@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-ff00e5?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codolio.com/profile/dir_pranav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/pranav-deshmukh-rcoem)
+[![Gmail](https://img.shields.io/badge/Gmail-ff6b00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pranavdeshmukh5454@gmail.com)
+[![Codolio](https://img.shields.io/badge/Codolio-ff6b00?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codolio.com/profile/dir_pranav)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff00e5,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6b00,100:0d1117&height=120&section=footer"/>
 
 </div>
