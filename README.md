@@ -1,49 +1,65 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6b00,100:0d1117&height=220&section=header&text=PRANAV%20DESHMUKH&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20GenAI%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:ff6b00,100:0d1117&height=250&section=header&text=PRANAV.EXE&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=A%20Full-Stack%20Developer%20RPG&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+systems...;Architecting+microservices+%40+PayFlow;Engineering+RAG+pipelines+%40+Creatora;Turning+coffee+%E2%98%95+into+production+code;9.52+CGPA+%7C+650%2B+LeetCode+%7C+Always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=900&color=FF6B00&center=true&vCenter=true&width=700&lines=%3E+LOADING+PLAYER+PROFILE...;%3E+CLASS%3A+FULL-STACK+MAGE;%3E+GUILD%3A+GFG+RBU+TECH+LEAD;%3E+STATUS%3A+GRINDING+DSA+%2B+SYSTEM+DESIGN;PRESS+START+TO+CONTINUE+%E2%86%92" alt="Typing SVG" />
 </a>
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=prn9v&color=ff6b00&style=flat-square&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff6b00?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/pranav-deshmukh-rcoem)
-[![LeetCode](https://img.shields.io/badge/LeetCode-650%2B_Solved-ff6b00?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117)](https://leetcode.com/)
-[![Codolio](https://img.shields.io/badge/Codolio-Profile-ff6b00?style=flat-square&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codolio.com/profile/dir_pranav)
-[![Gmail](https://img.shields.io/badge/Email-Contact_Me-ff6b00?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pranavdeshmukh5454@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=prn9v&color=ff6b00&style=for-the-badge&label=TIMES+RESPAWNED)
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/grid.gif" width="100%">
+<br/>
 
-## `> whoami`
+<table>
+<tr>
+<td width="35%" align="center">
 
-```yaml
-name: "Pranav Deshmukh"
-role: "Full Stack Developer | GenAI Engineer"
-education: "B.Tech CS, Ramdeobaba College of Engineering & Management, Nagpur"
-cgpa: 9.52
-status: "🎯 Focusing — building production-grade systems"
-currently_building:
-  - "Microservices-based payment infrastructure (PayFlow)"
-  - "RAG-powered AI systems (Creatora)"
-core_strengths:
-  - "Data Structures & Algorithms"
-  - "System Design"
-  - "Database Design (DBMS)"
-  - "Backend Architecture & Microservices"
-fun_fact: "650+ LeetCode problems solved and counting"
+<img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="100%"/>
+
+</td>
+<td width="65%">
+
+```ini
+╔══════════════════════════════════════╗
+║           PLAYER CARD                  ║
+╠══════════════════════════════════════╣
+  NAME        : Pranav Deshmukh
+  CLASS       : Full-Stack Mage / Backend Warrior
+  GUILD       : GFG RBU (Technical Team Lead)
+  BASE STATS  : CGPA 9.52 / 10
+  GRIND       : 650+ LeetCode Problems Cleared
+  MAIN QUEST  : Landing SDE Role, 2027 Batch
+  LOCATION    : Nagpur, India
+╚══════════════════════════════════════╝
 ```
+
+**⚔️ Core Stat Bars**
+
+`DSA`      `████████████████████░░` 90%
+`System Design` `██████████████████░░░░` 82%
+`DBMS`     `███████████████████░░░` 85%
+`Full-Stack Dev` `████████████████████░` 95%
+`Leadership` `██████████████████░░░░` 84%
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## ⚡ Tech Arsenal
+## 🗺️ `> whoami --verbose`
+
+> A Computer Science undergrad who treats every project like a dungeon to clear — break the boss (the hard architecture problem) down, grind the skill tree (learn the tech), and ship the loot (working, production-grade software). Currently farming DSA XP and system-design mana ahead of the final boss: **placement season 2027**.
+
+<br/>
+
+## 🌳 Skill Tree
 
 <div align="center">
 
-**Languages**
+**🔹 Tier 1 — Languages (Unlocked)**
 <br/>
 ![Java](https://img.shields.io/badge/-Java-ff6b00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0d1117)
 ![Python](https://img.shields.io/badge/-Python-ff6b00?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
@@ -51,7 +67,7 @@ fun_fact: "650+ LeetCode problems solved and counting"
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ff6b00?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0d1117)
 ![SQL](https://img.shields.io/badge/-SQL-ff6b00?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
 
-**Frameworks & Runtime**
+**🔸 Tier 2 — Frameworks & Runtime (Unlocked)**
 <br/>
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-ff6b00?style=for-the-badge&logo=springboot&logoColor=white&labelColor=0d1117)
 ![Next.js](https://img.shields.io/badge/-Next.js-ff6b00?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117)
@@ -59,9 +75,9 @@ fun_fact: "650+ LeetCode problems solved and counting"
 ![React](https://img.shields.io/badge/-React-ff6b00?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-ff6b00?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0d1117)
 ![Node.js](https://img.shields.io/badge/-Node.js-ff6b00?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-ff6b00?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)
+![Tailwind](https://img.shields.io/badge/-Tailwind-ff6b00?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0d1117)
 
-**Data, Messaging & Infra**
+**🔶 Tier 3 — Infra, Data & Messaging (Unlocked)**
 <br/>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ff6b00?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
 ![MySQL](https://img.shields.io/badge/-MySQL-ff6b00?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0d1117)
@@ -71,7 +87,7 @@ fun_fact: "650+ LeetCode problems solved and counting"
 ![Docker](https://img.shields.io/badge/-Docker-ff6b00?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
 ![Prisma](https://img.shields.io/badge/-Prisma-ff6b00?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0d1117)
 
-**AI / GenAI**
+**🔴 Tier 4 — Legendary / AI Spellbook (Unlocked)**
 <br/>
 ![Gemini API](https://img.shields.io/badge/-Gemini_API-ff6b00?style=for-the-badge&logo=googlegemini&logoColor=white&labelColor=0d1117)
 ![RAG](https://img.shields.io/badge/-RAG_Systems-ff6b00?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
@@ -80,54 +96,69 @@ fun_fact: "650+ LeetCode problems solved and counting"
 
 <br/>
 
-## 🚀 Featured Builds
+## ⚔️ Boss Battles — Defeated
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
-### 💳 [PayFlow — Payment Gateway](https://github.com/prn9v/PayFlow-JAVA-SPRINGBOOT-PROJECT)
-Microservices-based payment gateway — 7 independent Spring Boot services (Auth, Merchant, Payment, Wallet, Notification) with Spring Cloud Gateway + Eureka service discovery.
+### 🐉 BOSS #1: The Monolith Dragon — `PayFlow`
+**Difficulty:** ⭐⭐⭐⭐⭐ | **Status:** ☑️ DEFEATED
 
-Event-driven transaction pipeline via **RabbitMQ**, with **Resilience4j** circuit breakers for fault-tolerant, idempotent ledger updates.
+> A payment-gateway boss guarded by 7 independent Spring Boot services (Auth, Merchant, Payment, Wallet, Notification). Cleared using **Spring Cloud Gateway + Eureka** for service discovery, an event-driven pipeline via **RabbitMQ** to decouple payment processing, and **Resilience4j** circuit breakers to survive fault conditions without corrupting the ledger.
+
+**💎 Loot Dropped:** Microservices Architecture · Event-Driven Design · Fault Tolerance · Redis Caching · Razorpay Integration
 
 `Java` `Spring Boot` `Next.js` `RabbitMQ` `Redis` `MySQL` `Razorpay API`
 
-</td>
-<td width="50%">
+[![Fight this boss →](https://img.shields.io/badge/View_Repo-ff6b00?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/prn9v/PayFlow-JAVA-SPRINGBOOT-PROJECT)
 
-### 🤖 [Creatora — AI Creator Growth Platform](https://github.com/prn9v/Creatora-Backend)
-GenAI-powered content automation platform with REST APIs orchestrated via **NestJS**.
+---
 
-Includes a self-built **RAG chatbot** (FastAPI + Gemini API) — retrieves knowledge-base chunks via cosine similarity and grounds every answer to prevent hallucination.
+### 🤖 BOSS #2: The Hallucination Demon — `Creatora`
+**Difficulty:** ⭐⭐⭐⭐ | **Status:** ☑️ DEFEATED
+
+> A GenAI boss that tries to make the bot lie about features that don't exist. Sealed the demon using a self-built **RAG chatbot** (FastAPI + Gemini API) — every answer is retrieved via cosine-similarity search over embedded knowledge-base chunks and grounded strictly in real context, so hallucination never breaks containment. REST APIs orchestrated via NestJS.
+
+**💎 Loot Dropped:** Retrieval-Augmented Generation · Vector Embeddings · Prompt Grounding · NestJS API Design
 
 `GenAI` `NestJS` `FastAPI` `TypeScript` `PostgreSQL` `Gemini API`
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+[![Fight this boss →](https://img.shields.io/badge/View_Repo-ff6b00?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/prn9v/Creatora-Backend)
 
-### 🎵 [SyncTube — Real-Time Music Streaming](https://github.com/prn9v/SyncTube)
-Real-time collaborative streaming platform built on the **Spotify API**, supporting concurrent synchronized sessions with secure **Auth.js** authentication.
+---
+
+### 🎵 BOSS #3: The Sync Specter — `SyncTube`
+**Difficulty:** ⭐⭐⭐ | **Status:** ☑️ DEFEATED
+
+> A real-time boss that desyncs playback across every player in the party. Defeated with a **Spotify API**-powered collaborative streaming engine and **Auth.js** authentication to keep every session secure and synced.
+
+**💎 Loot Dropped:** Real-Time Systems · Third-Party API Integration · Secure Auth
 
 `Next.js` `Node.js` `MongoDB` `Spotify API`
 
-</td>
-<td width="50%">
-
-### 🧠 More on GitHub
-Explore the full breakdown — including **PayFlow-Frontend** and **Creatora-FastApi-Post-Generation** — pinned on my profile.
-
-[![View all repos](https://img.shields.io/badge/View_All_Repositories-ff6b00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/prn9v?tab=repositories)
-
-</td>
-</tr>
-</table>
+[![Fight this boss →](https://img.shields.io/badge/View_Repo-ff6b00?style=flat-square&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/prn9v/SyncTube)
 
 <br/>
 
-## 📊 System Metrics
+## 🏆 Achievements Unlocked
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prn9v&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8&title=QuickDraw,PullShark,YOLO" width="90%"/>
+
+| 🏅 Achievement | 📜 Description | Status |
+|---|---|---|
+| **Quickdraw** | Closed an issue/PR within 5 mins of opening | ✅ Unlocked |
+| **Pull Shark** | Merged multiple pull requests | ✅ Unlocked |
+| **YOLO** | Merged a PR without review | ✅ Unlocked |
+| **The Grinder** | 650+ LeetCode problems solved | ✅ Unlocked |
+| **Party Leader** | Led a 1500+ participant hackathon | ✅ Unlocked |
+| **Mentor Class** | Mentored juniors in GenAI & GitHub sessions | ✅ Unlocked |
+
+</div>
+
+<br/>
+
+## 📊 Character Sheet — Live Stats
 
 <div align="center">
 
@@ -135,27 +166,26 @@ Explore the full breakdown — including **PayFlow-Frontend** and **Creatora-Fas
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prn9v&theme=tokyonight&hide_border=true&background=0d1117&ring=ff6b00&fire=ff6b00&currStreakLabel=ff6b00" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prn9v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff6b00&text_color=c9d1d9" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=prn9v&theme=algolia&no-frame=true&column=4&margin-w=8&margin-h=8&title=QuickDraw,PullShark,YOLO" width="48%"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="48%"/>
 
 </div>
 
 <br/>
 
+### 📈 Battle Log (Contribution Grid)
+
 <div align="center">
-
-### 📈 Contribution Grid
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prn9v&theme=react-dark&hide_border=true&bg_color=0d1117&color=ff6b00&line=ff6b00&point=ffffff" width="100%"/>
-
 </div>
 
 <br/>
 
-## 🏆 Competitive Programming
+## 🥋 Competitive Programming Grind
 
 <div align="center">
 
-![LeetCode](https://img.shields.io/badge/LeetCode-650%2B_Problems_Solved-ff6b00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)
+![LeetCode](https://img.shields.io/badge/LeetCode-650%2B_Cleared-ff6b00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117)
 ![CodeChef](https://img.shields.io/badge/CodeChef-Active-ff6b00?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0d1117)
 ![HackerRank](https://img.shields.io/badge/HackerRank-Active-ff6b00?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0d1117)
 
@@ -163,23 +193,28 @@ Explore the full breakdown — including **PayFlow-Frontend** and **Creatora-Fas
 
 <br/>
 
-## 🧬 Leadership & Community
+## 🎮 NPCs I've Helped Level Up
 
-> **Technical Team Lead, GFG RBU** — Shri Ramdeobaba College of Engineering
-> Designed & deployed event websites for 200+ attendees. Organized a large-scale hackathon with **1500+ participants**. Mentored juniors and led GenAI + GitHub sessions.
+<img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="100%"/>
+
+> **Technical Team Lead — GFG RBU**, Shri Ramdeobaba College of Engineering
+> Designed and deployed event websites for 200+ attendees. Ran a raid-scale hackathon with **1500+ participants**. Mentored juniors and hosted GenAI + GitHub onboarding sessions — passing on skill points instead of hoarding them.
 
 <br/>
 
 <div align="center">
 
-## 🔗 Let's Connect
+## 🕹️ Continue?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/pranav-deshmukh-rcoem)
-[![Gmail](https://img.shields.io/badge/Gmail-ff6b00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pranavdeshmukh5454@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-ff6b00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:pranavdeshmukh5454@gmail.com)
 [![Codolio](https://img.shields.io/badge/Codolio-ff6b00?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d1117)](https://codolio.com/profile/dir_pranav)
+[![Repos](https://img.shields.io/badge/All_Repos-ff6b00?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/prn9v?tab=repositories)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:ff6b00,100:0d1117&height=120&section=footer"/>
+`> INSERT COIN TO CONTINUE THE ADVENTURE...`
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:ff6b00,100:0d1117&height=150&section=footer"/>
 
 </div>
