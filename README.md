@@ -28,8 +28,8 @@
   NAME        : Pranav Deshmukh
   CLASS       : Full-Stack Mage / Backend Warrior
   GUILD       : GFG RBU (Technical Team Lead)
-  BASE STATS  : CGPA 9.52 / 10
-  GRIND       : 650+ LeetCode Problems Cleared
+  BASE STATS  : CGPA 9.54 / 10
+  GRIND       : 700+ LeetCode Problems Cleared
   MAIN QUEST  : Landing SDE Role, 2027 Batch
   LOCATION    : Nagpur, India
 ╚══════════════════════════════════════╝
